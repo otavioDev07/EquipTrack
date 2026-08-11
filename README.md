@@ -120,6 +120,6 @@ Este projeto é fornecido sob a Licença [MIT](LICENSE).
 - João Paulo: Instrutor de Programação Web Back-End.
 
 - [Otávio Neto: Back-end Developer e Tech Lead](https://www.linkedin.com/in/ot%C3%A1vio-neto12/)
-- Pedro Schimidt: Full Stack Developer (https://www.linkedin.com/in/pedro-schimidt-354199341/)
+- [Pedro Schimidt: Full Stack Developer](https://www.linkedin.com/in/pedro-schimidt-354199341/) 
 - Samantha Fernandes: Scrum Master
 - [Sara Barros: Product Owner](https://www.linkedin.com/in/sararesendd/) 
